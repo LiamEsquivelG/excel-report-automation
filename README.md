@@ -1,8 +1,8 @@
-#  excel-report-automation
+# excel-report-automation
 
 **Automatización de un reporte mensual recurrente en Excel con Python**: de un export "sucio" de ERP a un reporte formateado con KPIs, tablas dinámicas y gráfico, en segundos.
 
-> ⚠️ **Nota:** inspirado en tareas que automaticé en mis prácticas (finanzas en Elanco Animal Health y administración en una consultora). Esas automatizaciones las hice en **Excel avanzado**. Este repositorio replica la idea en Python, con **datos 100% simulados**.
+> **Nota:** inspirado en tareas que automaticé en mis prácticas (finanzas en Elanco Animal Health y administración en una consultora). Esas automatizaciones las hice en **Excel avanzado**. Este repositorio replica la idea en Python, con **datos 100% simulados**.
 
 ## Contexto real
 - Automaticé reportes recurrentes con Excel avanzado y **reduje en un 70% el tiempo** de elaboración de tareas recurrentes.
