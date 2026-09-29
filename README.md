@@ -1,4 +1,4 @@
-# ⚙️ excel-report-automation
+#  excel-report-automation
 
 **Automatización de un reporte mensual recurrente en Excel con Python**: de un export "sucio" de ERP a un reporte formateado con KPIs, tablas dinámicas y gráfico, en segundos.
 
